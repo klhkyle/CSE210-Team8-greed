@@ -2,7 +2,7 @@
 
 Contributors/Authors:
 
-  Cai Woods: caiwoods11@byui.edu
+  Cai Woods: caiwoods11@byui.edu <br>
   Ken Kyle : kyl03001@byui.edu
 
 
